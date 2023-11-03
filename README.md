@@ -1,5 +1,6 @@
 # Insurance Fraud Prediction 
-(https://giphy.com/gifs/season-2-the-simpsons-2x2-xT5LMu62JyVsGFfUbu)
+
+![Simpson](https://giphy.com/gifs/season-2-the-simpsons-2x2-xT5LMu62JyVsGFfUbu)
 
 Insurance fraud is the deliberate act of deceiving or manipulating an insurance company for financial gain, often through false claims or misrepresentation of information, resulting in increased costs for both the insurer and policyholders.
 
