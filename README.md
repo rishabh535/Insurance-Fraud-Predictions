@@ -1,5 +1,5 @@
 # Insurance Fraud Prediction 
-![image](https://github.com/rishabh535/Insurance-Fraud-Predictions/assets/135207990/d5fb5754-d0ab-49cf-a9bf-277633be2cde)
+[![image](https://github.com/rishabh535/Insurance-Fraud-Predictions/assets/135207990/d5fb5754-d0ab-49cf-a9bf-277633be2cde)](https://giphy.com/gifs/season-2-the-simpsons-2x2-xT5LMu62JyVsGFfUbu)
 
 Insurance fraud is the deliberate act of deceiving or manipulating an insurance company for financial gain, often through false claims or misrepresentation of information, resulting in increased costs for both the insurer and policyholders.
 
