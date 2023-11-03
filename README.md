@@ -1,4 +1,19 @@
-# Insurance Fraud Prediction with EDA, Logistic Regression, and Power BI
+# Insurance Fraud Prediction 
+![image](https://github.com/rishabh535/Insurance-Fraud-Predictions/assets/135207990/d5fb5754-d0ab-49cf-a9bf-277633be2cde)
+
+Insurance fraud is the deliberate act of deceiving or manipulating an insurance company for financial gain, often through false claims or misrepresentation of information, resulting in increased costs for both the insurer and policyholders.
+
+## Project Description
+
+**Exploratory Data Analysis (EDA)**: We conduct an in-depth analysis of the dataset, incorporating data visualization, statistical examination, and rectifying missing or inconsistent data.
+
+**Data Cleaning**: We address data quality issues, handle missing values, and manage outliers to prepare the dataset for further analysis and modeling.
+
+**Feature Scaling**: Feature scaling techniques are applied to standardize or normalize the data, which is crucial for machine learning algorithms, especially logistic regression.
+
+**Logistic Regression**: Logistic regression is implemented as a classification algorithm to predict insurance fraud. This encompasses model training, evaluation, and fine-tuning to achieve optimal performance.
+
+**Power BI Data Visualization**: We leverage Power BI to create interactive and informative data visualizations and dashboards, aiding stakeholders in gaining a deeper understanding of the data and our analysis results.
 
 ## Overview
 
@@ -31,15 +46,3 @@ This project is released under the [MIT License](https://choosealicense.com/lice
 **Tools and Platforms:** VS Code, Jupyter Notebook, Power BI
 
 **Libraries and Packages:** [List the specific Python libraries and packages used]
-
-## Optimizations
-
-We encountered challenges during the development, particularly when applying commit changes, leading to errors. This section details the optimizations and improvements made to address these issues.
-
-[Provide a more detailed account of optimizations and improvements]
-
-Feel free to explore the code, experiment with different datasets, or suggest improvements to this project.
-
-If you have any questions or feedback, please open an issue in this repository.
-
-Happy coding and data analysis!
